@@ -5,7 +5,7 @@ The objective of this is to find reasons why employees quit.
 
 ### Step 1: Data Preparation (Cleaning)
 
-    "First, I downloaded the dataset from Kaggle. It had 1,470 employee records. I checked the data for errors and converted the data range into an Excel Table using Ctrl + T. This made it easier to analyze."
+#### "First, I downloaded the dataset from Kaggle. It had 1,470 employee records. I checked the data for errors and converted the data range into an Excel Table using Ctrl + T. This made it easier to analyze."
 
 ### Step 2: Data Analysis (Pivot Tables)
 
