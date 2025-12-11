@@ -70,11 +70,7 @@ Based on the data, I recommend the following actions to the HR Management:
 ---
  
 
----
-
-### 👤 Author
-* **Name:** [Your Name Here]
-* **Contact:** [Your Email or LinkedIn]
+ 
 ## Dashboards
 
 <img width="1296" height="599" alt="image" src="https://github.com/user-attachments/assets/5c7614c0-bc3e-4edd-aa8d-b57d63f49abf" />
