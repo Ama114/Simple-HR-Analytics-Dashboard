@@ -32,6 +32,17 @@ The objective of this is to find reasons why employees quit.
       
       Employees with lower salaries (around $4,700) are more likely to leave compared to high earners.
 
+
 ## Step 5: Recommendations
 
        Based on this, I recommend that the HR team should review the salary packages for R&D roles to reduce staff turnover.
+
+
+## Dashboards
+
+<img width="1296" height="599" alt="image" src="https://github.com/user-attachments/assets/5c7614c0-bc3e-4edd-aa8d-b57d63f49abf" />
+<img width="1282" height="613" alt="image" src="https://github.com/user-attachments/assets/40396b17-4aaf-47cb-b0c5-b166fee97a4a" />
+<img width="1145" height="614" alt="image" src="https://github.com/user-attachments/assets/f12ff460-1245-469e-b8ca-84a196d61be2" />
+
+
+
