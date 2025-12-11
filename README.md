@@ -11,23 +11,27 @@ The objective of this is to find reasons why employees quit.
 
 #### Next, I used Pivot Tables to answer three main questions:
 
-    #### 1. Which department has the highest attrition?
-    #### 2.Does low income lead to resignation?
-    #### 3.Does job satisfaction affect employee retention?"
+      1. Which department has the highest attrition?
+      
+      2.Does low income lead to resignation?
+      
+      3.Does job satisfaction affect employee retention?"
 
 ## Step 3: Visualization (Dashboard)
 
-    #### Then, I created a Dynamic Dashboard.
-    #### I used Bar Charts and Column Charts to visualize the numbers.
-    #### I added Slicers for 'Gender' and 'Education' so we can filter the data easily."
+      Then, I created a Dynamic Dashboard.
+      
+      I used Bar Chart ,pie chart and Column Chart to visualize the numbers.
+      I added Slicers for 'Gender' and 'Education' so we can filter the data easily."
 
 ## Step 4: Key Findings (Insights)
     
-    #### From my analysis, I found that:
+      From my analysis, I found that:
     
-    #### The R&D Department has the highest number of people leaving.
-    #### Employees with lower salaries (around $4,700) are more likely to leave compared to high earners.
+      The R&D Department has the highest number of people leaving.
+      
+      Employees with lower salaries (around $4,700) are more likely to leave compared to high earners.
 
 ## Step 5: Recommendations
 
-     #### Based on this, I recommend that the HR team should review the salary packages for R&D roles to reduce staff turnover.
+       Based on this, I recommend that the HR team should review the salary packages for R&D roles to reduce staff turnover.
