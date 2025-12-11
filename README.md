@@ -68,12 +68,7 @@ Based on the data, I recommend the following actions to the HR Management:
 * **3. Focus on Employee Engagement:** Conduct meetings with employees who have low satisfaction scores to resolve their issues.
 
 ---
-
-## 6. Future Improvements
-To take this project to the next level, I plan to:
-* Import this dataset into **Power BI** for more advanced visuals.
-* Use **Python (Pandas)** to build a prediction model.
-* Analyze "Work-Life Balance" and "Distance From Home" factors.
+ 
 
 ---
 
